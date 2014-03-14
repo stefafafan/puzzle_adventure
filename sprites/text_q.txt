@@ -1,0 +1,8 @@
+frames 1
+width 26
+height 2
+color default
+Quitting already?         
+I hope you liked our game!
+end
+eof

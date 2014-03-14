@@ -1,0 +1,13 @@
+frames 1
+width 33
+height 7
+color default
+Welcome to ./puzzle_adventure!   
+                                 
+You can move with the arrow keys 
+and push certain kinds of blocks.
+                                 
+Get to the red portal to escape  
+from this room!                  
+end
+eof

@@ -1,0 +1,8 @@
+frames 1
+width 34
+height 2
+color default
+Almost out, this is the last room.
+              Oh boy.             
+end
+eof

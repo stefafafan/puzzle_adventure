@@ -1,0 +1,11 @@
+frames 1
+width 29
+height 5
+color default
+Nice you made it!            
+But how about this time?     
+                             
+1x1 blocks are not the only  
+blocks you can push you know.
+end
+eof

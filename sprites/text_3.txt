@@ -1,0 +1,13 @@
+frames 1
+width 38
+height 7
+color default
+Well that wasn't bad at all!          
+Oooh but be careful on this level.    
+                                      
+When you think you messed up,         
+simply press 'r' to restart the level.
+                                      
+Or you could quit with 'q'.           
+end
+eof

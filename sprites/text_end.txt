@@ -1,0 +1,8 @@
+frames 1
+width 19
+height 2
+color default
+Great job!!        
+You beat the game!!
+end
+eof

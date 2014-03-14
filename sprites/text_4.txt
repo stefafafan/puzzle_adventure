@@ -1,0 +1,7 @@
+frames 1
+width 36
+height 1
+color default
+It's not as hard as you think it is.
+end
+eof
