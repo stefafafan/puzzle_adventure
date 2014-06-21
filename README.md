@@ -8,6 +8,8 @@ Our game uses Dragonfly version 2.5.
 
 Also available here: http://web.cs.wpi.edu/~imgd3000/a13/games/
 
+### What kind of game is this?
+The game is a puzzle adventure with a top-down perspective, where the player controls the person moving throughout the 2D environment. They will face many challenges in the form of block pushing puzzles. Their goal is to reach the exit and escape the dreaded blocks and to get back to the Cygwin window. 
 
 ### How to compile/run
 1. Download this repository.
